@@ -1,4 +1,4 @@
-INSERT INTO `your-project-id.sql_practice.departments`
+INSERT INTO `agentverse-scholar-75ucadbn96u.sql_practice.departments`
     (DepartmentID, DepartmentName, Location)
 VALUES
     (10, 'HR', 'New York'),
